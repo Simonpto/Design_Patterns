@@ -2,6 +2,7 @@ package Børskurs_overvågning;
 
 public class Main {
     public static void main(String[] args) {
+        //Main metode lavet med chatgpt
         Aktie apple = new Aktie("Apple", 150.0);
         Aktie tesla = new Aktie("Tesla", 650.0);
 
